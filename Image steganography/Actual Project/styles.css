@@ -76,17 +76,17 @@
     height: 8vh;
     color: black;
     border-radius: 5px;
-    background: #FDFC47;  /* fallback for old browsers */
-background: -webkit-linear-gradient(to right, #24FE41, #FDFC47);  /* Chrome 10-25, Safari 5.1-6 */
-background: linear-gradient(to right, #24FE41, #FDFC47); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    background: #FDFC47; 
+background: -webkit-linear-gradient(to right, #24FE41, #FDFC47);  
+background: linear-gradient(to right, #24FE41, #FDFC47);
 }
 #extractBTN:hover{
 
     cursor: pointer;
     color: black;
-    background: #BE93C5;  /* fallback for old browsers */
-background: -webkit-linear-gradient(to right, #7BC6CC, #BE93C5);  /* Chrome 10-25, Safari 5.1-6 */
-background: linear-gradient(to right, #7BC6CC, #BE93C5); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    background: #BE93C5; 
+background: -webkit-linear-gradient(to right, #7BC6CC, #BE93C5); 
+background: linear-gradient(to right, #7BC6CC, #BE93C5);
 
 }
 
@@ -96,15 +96,15 @@ background: linear-gradient(to right, #7BC6CC, #BE93C5); /* W3C, IE 10+/ Edge, F
     height: 8vh;
     color: black;
     border-radius: 5px;
-    background: #FDFC47;  /* fallback for old browsers */
-background: -webkit-linear-gradient(to right, #24FE41, #FDFC47);  /* Chrome 10-25, Safari 5.1-6 */
-background: linear-gradient(to right, #24FE41, #FDFC47); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    background: #FDFC47; 
+background: -webkit-linear-gradient(to right, #24FE41, #FDFC47); 
+background: linear-gradient(to right, #24FE41, #FDFC47); 
 }
 #hideBTN:hover{
     cursor: pointer;
     color: black;
-    background: #BE93C5;  /* fallback for old browsers */
-background: -webkit-linear-gradient(to right, #7BC6CC, #BE93C5);  /* Chrome 10-25, Safari 5.1-6 */
-background: linear-gradient(to right, #7BC6CC, #BE93C5); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    background: #BE93C5;  
+background: -webkit-linear-gradient(to right, #7BC6CC, #BE93C5);  
+background: linear-gradient(to right, #7BC6CC, #BE93C5); 
 
 }
